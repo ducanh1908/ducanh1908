@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duc Anh</h1>
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NodeJs ReactJs**
 
 - 📫 How to reach me **ducanh.le1908@gmail.com**
 
